@@ -1,5 +1,5 @@
 # Abdal Eni Benchmark
-![](https://raw.githubusercontent.com/ebrasha/abdal-4iproto-server-config/main/shot.jpg)
+![](https://raw.githubusercontent.com/ebrasha/Abdal-Eni-Benchmark/main/Abdal-Eni-Benchmark.jpg)
 
 # 🤵 برنامه نویس و توسعه دهنده
 ابراهیم شفیعی
