@@ -42,6 +42,7 @@
 
 ## ✅  سیستم عامل های پشتیبان شده
 
+- Win 10 x64
 - debian.11-x64
 - debian.11-arm64
 - debian.10-x64
@@ -52,6 +53,7 @@
 - centos.7-x64
 - rhel.7-x64
 - rhel.8-x64
+- fedora.36-x64
 - fedora.37-x64
 
  
