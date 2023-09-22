@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Abdal_Eni_Benchmark</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>heart-trim.ico</ApplicationIcon>
+    <Description>Programmer : Ebrahim Shafiei (EbraSha)</Description>
+    <Copyright>Programmer : Ebrahim Shafiei (EbraSha)</Copyright>
+    <PackageIcon>Untitled-1.png</PackageIcon>
+    <RepositoryUrl>https://github.com/ebrasha/Abdal-Eni-Benchmark</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>benchmarking ,http benchmarking ,Benchmark </PackageTags>
+    <AssemblyVersion>1.1.0</AssemblyVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="heart-trim.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Untitled-1.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+F:\Drive-C\Documents\Github\Abdal Eni Benchmark\Abdal Eni Benchmark\Abdal Eni Benchmark\bin\Release\net6.0\Abdal Eni Benchmark.exe
+F:\Drive-C\Documents\Github\Abdal Eni Benchmark\Abdal Eni Benchmark\Abdal Eni Benchmark\bin\Release\net6.0\Abdal Eni Benchmark.deps.json
+F:\Drive-C\Documents\Github\Abdal Eni Benchmark\Abdal Eni Benchmark\Abdal Eni Benchmark\bin\Release\net6.0\Abdal Eni Benchmark.runtimeconfig.json
+F:\Drive-C\Documents\Github\Abdal Eni Benchmark\Abdal Eni Benchmark\Abdal Eni Benchmark\bin\Release\net6.0\Abdal Eni Benchmark.dll
+F:\Drive-C\Documents\Github\Abdal Eni Benchmark\Abdal Eni Benchmark\Abdal Eni Benchmark\bin\Release\net6.0\Abdal Eni Benchmark.pdb
+F:\Drive-C\Documents\Github\Abdal Eni Benchmark\Abdal Eni Benchmark\Abdal Eni Benchmark\obj\Release\net6.0\Abdal Eni Benchmark.GeneratedMSBuildEditorConfig.editorconfig
+F:\Drive-C\Documents\Github\Abdal Eni Benchmark\Abdal Eni Benchmark\Abdal Eni Benchmark\obj\Release\net6.0\Abdal Eni Benchmark.AssemblyInfoInputs.cache
+F:\Drive-C\Documents\Github\Abdal Eni Benchmark\Abdal Eni Benchmark\Abdal Eni Benchmark\obj\Release\net6.0\Abdal Eni Benchmark.AssemblyInfo.cs
+F:\Drive-C\Documents\Github\Abdal Eni Benchmark\Abdal Eni Benchmark\Abdal Eni Benchmark\obj\Release\net6.0\Abdal Eni Benchmark.csproj.CoreCompileInputs.cache
+F:\Drive-C\Documents\Github\Abdal Eni Benchmark\Abdal Eni Benchmark\Abdal Eni Benchmark\obj\Release\net6.0\Abdal Eni Benchmark.dll
+F:\Drive-C\Documents\Github\Abdal Eni Benchmark\Abdal Eni Benchmark\Abdal Eni Benchmark\obj\Release\net6.0\refint\Abdal Eni Benchmark.dll
+F:\Drive-C\Documents\Github\Abdal Eni Benchmark\Abdal Eni Benchmark\Abdal Eni Benchmark\obj\Release\net6.0\Abdal Eni Benchmark.pdb
+F:\Drive-C\Documents\Github\Abdal Eni Benchmark\Abdal Eni Benchmark\Abdal Eni Benchmark\obj\Release\net6.0\Abdal Eni Benchmark.genruntimeconfig.cache
+F:\Drive-C\Documents\Github\Abdal Eni Benchmark\Abdal Eni Benchmark\Abdal Eni Benchmark\obj\Release\net6.0\ref\Abdal Eni Benchmark.dll
