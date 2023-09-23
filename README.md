@@ -14,7 +14,7 @@ Email :  Prof.Shafiei@Gmail.com
 ## 💎 General purpose
 A web performance benchmarking tool with customizable connections and requests.
 
-## 💎 Description
+## 📄 Description
 "Abdal Eni Benchmark" is a robust tool designed for benchmarking and testing the performance of websites and web services. With this tool, users can specify the number of connections, the number of requests sent per connection, and the test execution duration. Test results are displayed in real-time.
 
 # ✨ Features
